@@ -1,2 +1,0 @@
-# Egg
-Ejercicios Practicos Egg
